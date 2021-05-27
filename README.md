@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**NotGubeesh/NotGubeesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi There Everyone!!
+ The Ninja Here
+ ❗ The Great Author Of Gubeesh
+ 🪶 Writing Some Codes
+ 🍜 Wasting Out Time
+ 🪓 Trying To Do Something Unique
+ 📜 Reading Some Useless Docs
+ 🔗 [Gubeesh](https://github.com/NotGubeesh "The Greatest")
+ 
+### 🚩 Just Do The Best You Can. No One Can Do More Than That. -John Wooden
+ 
