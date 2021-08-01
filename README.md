@@ -10,7 +10,7 @@
  
  📜 Reading Some Useless Docs.
  
- 🔗 [Gubeesh](https://github.com/NotGubeesh "The Greatest")
+ 🔗 [Gubeesh](https://gubeeshinc.repl.co "The Greatest")
  
 ### 🚩 Just Do The Best You Can. No One Can Do More Than That. -John Wooden
  
